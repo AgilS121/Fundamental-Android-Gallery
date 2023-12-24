@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Canvas Treasures</string>
+
+    <string name="gallery_name">Nama Lukisan</string>
+    <string name="description">Deskripsi</string>
+    <string name="btn_info">Kunjungi Sumber</string>
+    <string name="my_name">Agil Satria Ancang Pamungkas</string>
+    <string name="my_email">gilsatria121@gmail.com</string>
+    <string name="my_image">My Profile</string>
+
+    <string-array name="data_name">
+        <item>Mona Lisa</item>
+        <item>Salvator Mundi</item>
+        <item>Interchange</item>
+        <item>Nafea Faa Ipoipo (When Will You Marry?)</item>
+        <item>The Card Players</item>
+        <item>Number 17A</item>
+        <item>No.6 (Violet, Green, and Red)</item>
+        <item>Pendant Portraits of Maerten Soolmans and Oopjen Coppit</item>
+        <item>Les Femmes d’Alger (“Version O”)</item>
+        <item>Masterpiece</item>
+    </string-array>
+
+    <string-array name="data_year">
+        <item>(1503)</item>
+        <item>(1500)</item>
+        <item>(1955)</item>
+        <item>(1892)</item>
+        <item>(1892)</item>
+        <item>(1948)</item>
+        <item>(1951)</item>
+        <item>(1634)</item>
+        <item>(1955)</item>
+        <item>(1962)</item>
+    </string-array>
+
+    <string-array name="data_author">
+        <item>Leonardo da Vinci</item>
+        <item>Leonardo da Vinci</item>
+        <item>Willem de Kooning</item>
+        <item>Paul Gauguin</item>
+        <item>Paul Cezanne</item>
+        <item>Jackson Pollock</item>
+        <item>Mark Rothko</item>
+        <item>Rembrandt van Rijn</item>
+        <item>Pablo Picasso</item>
+        <item>Roy Lichtenstein</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pada tahun 1962, mahakarya Mona Lisa memiliki nilai jual seharga US$100 juta atau setara Rp1,5 triliun. Sementara pada tahun 2022, lukisan karya Leonardo da Vinci ini perkiraan memiliki nilai jual sebesar US$860 juta atau sekitar Rp13,3 triliun.</item>
+        <item>Salvator Mundi adalah lukisan karya Leonardo Da Vinci yang dibuat pertama kali pada tahun 1499 dan selesai tahun 1510. Lukisan ini dibeli oleh pangeran Saudi Arabia yakni, Muhammad bin Salman al-Saud pada tahun 2017 dengan harga US$ 450 juta.</item>
+        <item>Interchange dijual oleh sang seniman pada tahun 1955 dengan harga $4.000, lukisan ini kemudian dijual oleh David Geffen Foundation kepada Kenneth C. Griffin dengan harga $300 juta pada bulan September 2015, dan menduduki peringkat pertama dalam daftar lukisan termahal. Lukisan ini dipinjamkan ke Institut Seni Chicago.[5] Lukisan ini sekarang menduduki peringkat kedua dalam daftar lukisan termahal, hanya dikalahkan oleh lukisan Salvator Mundi karya Leonardo da Vinci yang terjual dengan harga $450,3 juta pada bulan November 2017.</item>
+        <item>When Will You Marry? (bahasa Prancis: Quand te maries-tu?, bahasa Tahiti: Nafea faa ipoipo?) adalah sebuah lukisan cat minyak dari tahun 1892 karya seniman Post-Impresionis Prancis Paul Gauguin. Dipinjamkan ke Kunstmuseum di Basel, Swiss selama hampir setengah abad, lukisan ini dijual secara pribadi oleh keluarga Rudolf Staechelin kepada Sheikha Al-Mayassa binti Hamad Al-Thani, pada bulan Februari 2015 dengan harga hampir US$210 juta (£155 juta), salah satu harga tertinggi yang pernah dibayarkan untuk sebuah karya seni. Lukisan ini dipamerkan di Fondation Beyeler, Riehen, hingga tanggal 28 Juni 2015.</item>
+        <item>The Card Players adalah serangkaian lukisan cat minyak karya seniman Post-Impresionis Prancis Paul Cézanne. Dilukis selama periode terakhir Cézanne di awal tahun 1890-an, ada lima lukisan dalam seri ini. Versi ini bervariasi dalam hal ukuran, jumlah pemain, dan latar tempat permainan berlangsung. Cézanne juga menyelesaikan banyak gambar dan studi untuk mempersiapkan seri The Card Players. Salah satu versi The Card Players dijual pada tahun 2011 kepada Keluarga Kerajaan Qatar dengan harga yang diperkirakan mencapai $250 juta ($325,2 juta saat ini), menandakan rekor baru untuk harga tertinggi yang pernah ada untuk sebuah lukisan, yang tidak terlampaui hingga November 2017.</item>
+        <item>Nomor 17A adalah lukisan ekspresionis abstrak tahun 1948 karya Jackson Pollock. Lukisan ini dimiliki oleh manajer hedge fund Kenneth C. Griffin, yang membelinya pada September 2015 dari David Geffen seharga $200 juta, harga yang memecahkan rekor saat itu, dan dipinjamkan ke Art Institute of Chicago. Pada September 2022, lukisan ini menduduki peringkat ke-5 dalam daftar lukisan termahal.</item>
+        <item>No. 6 (Violet, Green and Red) adalah salah satu karya yang terlibat dalam Bouvier Affair yang terkenal. Lukisan ini dibeli secara pribadi seharga €140 juta oleh Dmitry Rybolovlev pada tahun 2014. Rybolovlev diperkirakan membeli lukisan tersebut melalui dealer Swiss, Bouvier. Rybolovlev mengetahui bahwa Bouvier sebenarnya telah membeli lukisan tersebut (dan bukan hanya bertindak sebagai dealer) dari Paiker H.B. seharga €80,000,000 sebelum menjualnya kepada Rybolovlev dengan harga €140,000,000.</item>
+        <item>Difasilitasi melalui saluran Penjualan Pribadi Christie s, akuisisi bersama pertama kalinya atas dua mahakarya luar biasa Rembrandt van Rijn (1606-1669) oleh negara Prancis dan Belanda telah diselesaikan pada tanggal 1 Februari, dengan potret-potret tersebut masing-masing dibeli seharga €160 juta - €80 juta, dan dengan demikian menjadi lukisan-lukisan Old Master termahal dalam sejarah.</item>
+        <item>Seluruh seri Les Femmes d Alger dibeli oleh Victor dan Sally Ganz dari Galerie Louise Leiris di Paris dengan harga $212.500 pada Juni 1956 (setara dengan $2,3 juta pada 2022). Sepuluh lukisan dari seri ini kemudian dijual oleh Ganz ke Galeri Saidenberg, dan pasangan ini menyimpan versi "C", "H", "K", "M", dan "O".</item>
+        <item>Pada Januari 2017, Agnes Gund menjual lukisan Masterpiece tahun 1962, yang selama bertahun-tahun tergantung di atas mantel apartemennya di Upper East Side, dengan harga $165 juta. Hasil penjualan tersebut akan digunakan untuk memulai dana reformasi peradilan pidana yang disebut dana Art for Justice. Harga tersebut merupakan salah satu dari 15 harga tertinggi yang pernah dibayarkan untuk sebuah karya seni. Pembelinya adalah Steven A. Cohen.</item>
+    </string-array>
+
+    <string-array name="data_story">
+        <item>Nama atau judul lukisan Mona Lisa berasal dari biografi Giorgio Vasari tentang Leonardo da Vinci, yang terbit 31 tahun setelah ia meninggal dunia. Di dalam buku ini disebutkan bahwa wanita dalam lukisan ini adalah Lisa Gherardini. Mona dalam bahasa Italia adalah singkatan untuk ma donna yang artinya adalah "nyonyaku". Sehingga judul lukisan artinya adalah Nyonya Lisa. Dalam bahasa Italia biasanya judul lukisan ditulis sebagai Monna Lisa.</item>
+        <item>Lukisan ini awalnya dibuat untuk Raja Louis XIV dari Prancis dan istrinya Permaisuri Anne dari Britania. Namun lukisan ini dinyatakan hilang Saat keluarga Kerajaan Prancis menikahkan puterinya Henriette Marie pada tahun 1625 dengan Raja Charles I dari Inggris yang terkenal sebagai kolektor seni paling terkemuka. Ia meminta istrinya untuk membawa lukisan tersebut ke Inggris dan menyimpannya di kamar pribadi Ratu, di Greenwich Palace. Lukisan ini hilang antara tahun 1763 dan 1900. Sampai akhirnya semua catatan dan penemuan lukisan ditemukan di tahun 2005, oleh pedagang seni Inggris.Lukisan tersebut hilang selama lebih dari 200 tahun, sehingga membuat nya rusak dan dipugar dengan buruk, serta telah dijual berulang kali.</item>
+        <item>Interchange, juga dikenal sebagai Interchanged, adalah lukisan cat minyak abstrak ekspresionis di atas kanvas tahun 1955 karya pelukis Belanda-Amerika Willem de Kooning (1904-1997). Seperti Jackson Pollock, de Kooning adalah salah satu seniman awal gerakan ekspresionisme abstrak, gerakan seni modern Amerika yang pertama. Lukisan ini berukuran 200,7 x 175,3 sentimeter (79,0 x 69,0 inci) dan diselesaikan pada tahun 1955. Lukisan ini menandai transisi subjek lukisan de Kooning dari wanita ke lanskap perkotaan abstrak. Lukisan ini mencerminkan transisi dalam teknik melukis de Kooning karena pengaruh seniman Franz Kline, yang mengilhami de Kooning untuk melukis dengan tanda gerakan yang cepat dan bukan sapuan kuas yang keras. Lukisan ini menampilkan massa merah muda yang berdaging di tengahnya, mewakili seorang wanita yang sedang duduk.</item>
+        <item>Gauguin melakukan perjalanan ke Tahiti untuk pertama kalinya pada tahun 1891. Harapannya adalah untuk menemukan "surga yang indah di mana ia dapat menciptakan seni 'primitif' yang murni", daripada karya-karya tiruan primitif yang dihasilkan oleh para pelukis di Prancis. Setibanya di sana, ia mendapati bahwa Tahiti tidak seperti yang ia bayangkan: Tahiti telah dijajah pada abad ke-18, dan setidaknya dua pertiga penduduk asli pulau itu telah terbunuh oleh penyakit yang dibawa oleh orang Eropa. Budaya "primitif" telah musnah. Meskipun demikian, ia melukis banyak gambar wanita pribumi: telanjang, mengenakan pakaian tradisional Tahiti, dan mengenakan gaun gaya Barat, seperti gambar belakang dalam When Will You Marry?</item>
+        <item></item>
+        <item>Lukisan ini menggunakan cat minyak di atas papan serat dan merupakan lukisan tetesan, yang dibuat dengan memercikkan cat ke permukaan horizontal. Lukisan ini dilukis setahun setelah Jackson Pollock memperkenalkan teknik tetesnya. Lukisan ini ditampilkan di majalah Life edisi Agustus 1949 yang membuat Jackson Pollock menjadi seorang selebriti.</item>
+        <item>No. 6 (Violet, Green and Red) adalah lukisan tahun 1951 karya seniman ekspresionis abstrak Latvia-Amerika, Mark Rothko. Lukisan ini dilukis pada tahun 1951. Sama seperti karya-karya Rothko lainnya dari periode ini, No. 6 terdiri dari hamparan warna yang luas yang digambarkan dengan warna-warna yang tidak merata dan kabur. Pada tahun 2014, lukisan ini menjadi salah satu lukisan termahal yang dijual dalam pelelangan.</item>
+        <item>Potret Maerten Soolmans dan istrinya, Oopjen Coppit, dieksekusi pada tahun 1634, setahun setelah pernikahan pasangan tersebut. Diumumkan oleh kedua negara bahwa kedua lukisan ini akan selalu ditampilkan bersama, secara bergantian di Louvre dan Rijksmuseum, tetapi akan dimiliki secara terpisah karena hukum akuisisi Prancis.</item>
+        <item>Les Femmes d Alger (bahasa Inggris: Women of Algiers) adalah sebuah seri yang terdiri dari 15 lukisan dan sejumlah gambar karya seniman Spanyol Pablo Picasso. Seri yang dibuat pada tahun 1954-1955 ini terinspirasi oleh lukisan Eugène Delacroix pada tahun 1834 berjudul The Women of Algiers in their Apartment (bahasa Prancis: Femmes d Alger dans leur appartement). Seri ini adalah salah satu dari beberapa lukisan yang dilukis oleh Picasso sebagai penghormatan kepada seniman yang ia kagumi.</item>
+        <item>Menurut situs web Lichtenstein Foundation, Masterpiece merupakan bagian dari pameran pertama Lichtenstein di Ferus Gallery di Los Angeles dari tanggal 1 April - 27 April 1963, yang menampilkan Drowning Girl, Portrait of Madame Cézanne, dan karya-karya lain dari tahun 1962 dan 1963. Ketika membahas karya lain (I Know...Brad), Lichtenstein menyatakan bahwa nama Brad terdengar heroik baginya dan digunakan dengan tujuan penyederhanaan yang klise. Drowning Girl merupakan karya penting lainnya dengan Brad sebagai subjek heroik. Sumber gambar ini adalah sebuah panel buku komik dengan dua subjek yang diposisikan mirip dengan posisi mereka di sini, tetapi mereka berada di dalam mobil. Pada gambar sumber, isi narasi dari balon ucapan tersebut berbunyi "Tetapi suatu hari nanti kepahitan akan berlalu...".</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/mona_lisa</item>
+        <item>@drawable/salvatormundi</item>
+        <item>@drawable/interchange</item>
+        <item>@drawable/nafea_faa_ipoipo</item>
+        <item>@drawable/the_card_players</item>
+        <item>@drawable/number_17a</item>
+        <item>@drawable/violet_green_red</item>
+        <item>@drawable/pendant_portraitsof_maerten_soolmansand_oopjen_coppit</item>
+        <item>@drawable/les_femmes_d_alger</item>
+        <item>@drawable/masterpiece_1962</item>
+    </integer-array>
+
+    <string-array name="data_url">
+        <item>https://id.wikipedia.org/wiki/Mona_Lisa</item>
+        <item>https://id.wikipedia.org/wiki/Salvator_Mundi_(Leonardo)</item>
+        <item>https://en.wikipedia.org/wiki/Interchange_(de_Kooning)</item>
+        <item>https://en.wikipedia.org/wiki/When_Will_You_Marry%3F</item>
+        <item>https://en.wikipedia.org/wiki/The_Card_Players</item>
+        <item>https://en.wikipedia.org/wiki/Number_17A</item>
+        <item>https://en.wikipedia.org/wiki/No._6_(Violet,_Green_and_Red)</item>
+        <item>https://www.christies.com/features/The-Private-Sale-of-Rembrandt-Van-Rijn-Portrait-of-Oopjen-Coppit-and-Maerten-Soolmans-7044-1.aspx</item>
+        <item>https://en.wikipedia.org/wiki/Les_Femmes_d%27Alger</item>
+        <item>https://en.wikipedia.org/wiki/Masterpiece_(Lichtenstein)</item>
+    </string-array>
+</resources>
+
